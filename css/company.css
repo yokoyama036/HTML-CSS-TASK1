@@ -1,0 +1,36 @@
+.company{
+  border-collapse: collapse;
+}
+
+.company tr{
+  height: 7rem;
+}
+
+.company th{
+  width: 150px;
+  text-align: right;
+  vertical-align: middle;
+}
+
+.company td{
+  width: 480px;
+  padding-left: 10px;
+}
+
+.company tr:last-child th {
+  border-color: #B1B1B1;
+}
+
+.send{  
+font-size:3rem;
+color: #fff;
+padding: 10px;
+background-color: #008B8B;
+}
+.send:hover {
+opacity: 0.5
+}
+p{
+text-align: center;
+}
+
